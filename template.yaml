@@ -2,8 +2,8 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: DE-TEMPLATE-FOR-TOYOTA-WITH-SETUP.PY
-  title: Data Engineering Template with setup.py
-  description: Template to create repo for Data Engineering with setup.py
+  title: Data Engineering Template for Toyota with setup.py
+  description: Template to create repo for Data Engineering (Toyota)
 spec:
   owner: user:kandarp.sharma
   type: service
